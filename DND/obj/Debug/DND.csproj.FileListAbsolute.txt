@@ -1,0 +1,9 @@
+C:\Data\Galaxy\Solar\Earth\DND\DND\bin\Debug\DND.exe.config
+C:\Data\Galaxy\Solar\Earth\DND\DND\bin\Debug\DND.exe
+C:\Data\Galaxy\Solar\Earth\DND\DND\bin\Debug\DND.pdb
+C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Debug\DND.csprojResolveAssemblyReference.cache
+C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Debug\DND.Form1.resources
+C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Debug\DND.Properties.Resources.resources
+C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Debug\DND.csproj.GenerateResource.Cache
+C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Debug\DND.exe
+C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Debug\DND.pdb
