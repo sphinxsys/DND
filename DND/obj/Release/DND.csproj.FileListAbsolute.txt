@@ -1,6 +1,0 @@
-C:\Data\Galaxy\Solar\Earth\DND\DND\bin\Release\DND.exe.config
-C:\Data\Galaxy\Solar\Earth\DND\DND\bin\Release\DND.exe
-C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Release\DND.Form1.resources
-C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Release\DND.Properties.Resources.resources
-C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Release\DND.csproj.GenerateResource.Cache
-C:\Data\Galaxy\Solar\Earth\DND\DND\obj\Release\DND.exe
